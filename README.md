@@ -1,10 +1,9 @@
 ---
 layout: default
 title: 最新IPTV直播源|每日更新直播源|免费电视直播源|Github开源项目
-description: 本项目免费提供最新开源的IPTV直播源,每6小时自动更新。收录国内外数千个高清直播频道源,包括央视、卫视、港澳台、海外频道。完全免费无广告,提供M3U/TXT格式,支持IPv4/IPv6双栈访问,支持EPG节目单及台标,可用于所有苹果、安卓4.0+系统的电视盒子、手机、和任何电脑等设备。
-keywords: IPTV,直播源,IPTV直播源,直播电视,电视直播,CCTV,全套卫视,全套央视,iptv,iptv直播源,ipv4直播源,IPv6直播源,免费直播源,m3u8直播源,港澳台,海外,国内,直播电视app,livetv.izbds.com,live.izbds.com,live.zbds.top,zbds.org
+description: 本项目免费提供最新开源的IPTV直播源,每6小时自动更新。收录国内外数千个高清直播频道源,包括央视、卫视等频道。完全免费无广告,提供M3U/TXT格式,支持IPv4/IPv6双栈访问,支持EPG节目单及台标,可用于所有苹果、安卓4.0+系统的电视盒子、手机、和任何电脑等设备。
+keywords: IPTV,直播源,IPTV直播源,直播电视,电视直播,CCTV,全套卫视,全套央视,iptv,iptv直播源,ipv4直播源,IPv6直播源,免费直播源,m3u8直播源,国内,直播电视app
 permalink: /
-hide_edgeone: true
 ---
 
 
@@ -12,7 +11,7 @@ hide_edgeone: true
 
 <h2>🔄永久免费 完全开源 不含广告 直播源支持IPv4/IPv6双栈访问🔄</h2>
 
-<p>本项目免费提供最新开源的IPTV直播源,每6小时自动更新。收录国内外数千个高清直播频道源,包括央视、卫视、港澳台、海外频道。完全免费无广告,提供M3U/TXT格式,支持IPv4/IPv6双栈访问,支持EPG节目单及台标,可用于所有苹果、安卓4.0+系统的电视盒子、手机、和任何电脑等设备，支持各种播放器。<br><br /><span style="color: #e03e2d;"><strong>请注意:</strong></span>直播源全部来源于网络公开资源，本项目不存储任何直播源媒体的内容，所有直播源均由第三方提供，本项目不对其内容负责，不保证直播源的可用性、稳定性和合法性。为维持网站开销，页面上有些自动广告链接，上面有标注，请自行甄别。</p>
+<span style="color: #e03e2d;"><strong>请注意：</strong></span>直播源全部来源由github仓库工作流自动收集于网络公开资源。本项目不存储任何直播源媒体的内容，所有直播源均由第三方提供，本项目不对其内容负责，不保证直播源的可用性、稳定性和合法性。
 
 <div class="badges-container">
     <img src="https://img.shields.io/github/stars/vbskycn/iptv?style=flat-square" alt="GitHub stars" />
@@ -23,15 +22,6 @@ hide_edgeone: true
     <img src="https://img.shields.io/github/license/vbskycn/iptv?style=flat-square" alt="GitHub license" />
     <img src="https://views.whatilearened.today/views/github/vbskycn/iptv.svg" alt="访问统计" />
 </div>
-
----
-
-> 如不愿折腾开源项目，推荐直接下载第三方开发的软件 **直播电视**APP 使用，手机电视盒子都兼容，没有广告，完全免费。
->
-> 直播电视APP 下载地址：[https://izbds.com](https://izbds.com/aztv/)   [野草助手](https://www.yecao.net/download/)安装码：**0024**
->
-> 软件内包含大量直播源，包含港澳台频道，速度流畅，并且每日多次更新。
-
 ------
 
 
@@ -41,7 +31,7 @@ hide_edgeone: true
 
 <p><strong>IPTV4直播源</strong>由部署在服务器上的程序自动扫描验证，确保<strong>直播源</strong>的时效性和稳定性。</p>
 
-<!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-09-17 12:36:16<!-- END_UPDATE_TIME_IPTV4 -->
+请使用国内站访问:[https://zbds.org/](https://zbds.org/)  <!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-09-29 06:24:19<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -82,9 +72,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 <p><strong>IPTV6直播源</strong>专为IPv6网络优化，由部署在服务器上的程序自动扫描验证，确保<strong>直播源</strong>的时效和稳定</p>
 
-<!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-09-17 12:36:16<!-- END_UPDATE_TIME_IPTV6 -->
-
-<p><em>有ipv6环境的强烈推荐这个列表，高速稳定</em></p>
+请使用国内站访问:[https://zbds.org/](https://zbds.org/)  <!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-09-29 06:24:19<!-- END_UPDATE_TIME_IPTV6 -->
 
 **近期由于不可力抗原因，大部分ipv6源都关门了，大玩家各玩各的。造成网友们不能一网通吃，请大家静待花开吧！！如有开门的大玩家，本仓库第一时间更新上来给大家分享**
 
@@ -127,7 +115,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 <h2>💽DEMO</h2>
 
-![IPTV直播源演示截图 - 展示直播源列表和播放界面](assets/demo.png "IPTV直播源演示")
+<p><img src="assets/demo.png" alt="IPTV直播源演示截图 - 展示直播源列表和播放界面" title="IPTV直播源演示" loading="lazy" decoding="async" /></p>
 
 
 
@@ -135,28 +123,41 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 <p>我们提供多种<strong>直播源</strong>相关工具，帮助您更好地使用<strong>IPTV直播源</strong>：</p>
 
-<h3>直播源格式转换器</h3>
-<p>纯前端<strong>直播源</strong>格式转换器（开源在本仓库tools目录）</p>
 
-- [https://izbds.com/tools/index.html](https://izbds.com/tools/index.html)
 
 ### 直播源开源站点地址
 
-- [https://livetv.izbds.com/index.html](https://livetv.izbds.com/index.html)
+- [https://zbds.org/](https://zbds.org/)
 
-  
 
-<h2>📱 直播电视APP</h2>
-<p>如果你不愿意折腾，这里有折腾好的可直接使用的直播电视软件</p>
 
-<h3>最新稳定版</h3>
+### 🔄 Fork 仓库自动同步
 
-- 下载链接： [https://izbds.com](https://izbds.com/aztv/)  （包含港澳台）
+如果您 Fork 了本项目，可以通过以下方式保持与上游仓库的同步：
+
+#### 开启 GitHub Actions 工作流即可
+**重要**：Fork 后需要手动开启 Actions 功能才能使用自动同步：
+
+1. 进入您 Fork 的仓库页面
+2. 点击仓库顶部的 **"Actions"** 标签页
+3. 如果看到 "Workflows aren't being run on this forked repository" 的提示
+4. 点击 **"I understand my workflows, go ahead and enable them"** 按钮
+5. 确认开启 Actions 功能
+
+#### 自动同步（推荐）
+开启 Actions 后，本项目已配置 GitHub Actions 工作流，每6小时自动同步上游仓库的更新：
+- ✅ 每6小时自动检测上游仓库更新
+- ✅ 自动合并最新更改，每次同步都会生成详细的执行报告
+- ✅ 自动解决合并冲突（以远程仓库为准）
+- ✅ 保护工作流文件，避免权限问题
+
+
 
 
 
 <h2>📅 更新</h2>
 
+- 2025.9.29 删除一些冗余文件
 - 2025.8.1 更新一些直播源
 - 2025.5.20 不提供epg服务
 - 2025.1.11 优化页面
@@ -194,25 +195,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
   
 
-<h2>🎁 欢迎请我喝杯饮料</h2>
-
-![微信赞赏码 - 支持项目维护者](assets/wxds.png "微信赞赏码")
-
-
-
 <h2>📊 Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#vbskycn/iptv&Date)
-
-<!-- edgeone_start -->
-<a href="https://edgeone.ai/?from=github/vbskycn/iptv"
-   title="本项目的CDN加速和安全防护由腾讯EdgeOne赞助"
-   target="_blank"
-   rel="noopener noreferrer">
-  <img src="https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png"
-       alt="腾讯EdgeOne CDN加速服务"
-       loading="lazy"
-  />
-</a>
-<!-- edgeone_end -->
 
