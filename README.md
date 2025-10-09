@@ -31,7 +31,7 @@ permalink: /
 
 <p><strong>IPTV4直播源</strong>由部署在服务器上的程序自动扫描验证，确保<strong>直播源</strong>的时效性和稳定性。</p>
 
-请使用国内站访问:[https://live.icnwe.com/](https://live.icnwe.com/)  <!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-10-09 12:26:30<!-- END_UPDATE_TIME_IPTV4 -->
+请使用国内站访问:[https://live.icnwe.com/](https://live.icnwe.com/)  <!-- UPDATE_TIME_IPTV4 -->本次更新时间: 2025-10-09 18:26:21<!-- END_UPDATE_TIME_IPTV4 -->
 
 <table>
   <colgroup>
@@ -72,7 +72,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 <p><strong>IPTV6直播源</strong>专为IPv6网络优化，由部署在服务器上的程序自动扫描验证，确保<strong>直播源</strong>的时效和稳定</p>
 
-请使用国内站访问:[https://live.icnwe.com/](https://live.icnwe.com/)  <!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-10-09 12:26:30<!-- END_UPDATE_TIME_IPTV6 -->
+请使用国内站访问:[https://live.icnwe.com/](https://live.icnwe.com/)  <!-- UPDATE_TIME_IPTV6 -->本次更新时间: 2025-10-09 18:26:21<!-- END_UPDATE_TIME_IPTV6 -->
 
 **近期由于不可力抗原因，大部分ipv6源都关门了，大玩家各玩各的。造成网友们不能一网通吃，请大家静待花开吧！！如有开门的大玩家，本仓库第一时间更新上来给大家分享**
 
@@ -115,7 +115,7 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 
 <h2>💽DEMO</h2>
 
-<p><img src="assets/demo.png" alt="IPTV直播源演示截图 - 展示直播源列表和播放界面" title="IPTV直播源演示" loading="lazy" decoding="async" /></p>
+<p><img src="assets/demo.webp" alt="IPTV直播源演示截图 - 展示直播源列表和播放界面" title="IPTV直播源演示" loading="lazy" decoding="async" /></p>
 
 
 
